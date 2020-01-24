@@ -24,7 +24,7 @@ end
 
 
 
-  puts "HUH?! SPEAK UP, SONNY!"
+
 
 
 
