@@ -15,8 +15,11 @@
 speak_to_grandam
 
 (speak_to_grandam("I LOVE  YOU GRANDMA")) == "I LOVE YOU TOO PUMPKIN"
-(speak_to_grandam("Hi Nana, How're you?")) == "HUH?! SPEAK UP SONNY"
-(speak_to_grandam(I LOVE  YOU GRANDMA)) == "I LOVE YOU TOO PUMPKIN"
+(speak_to_grandam("Hi Nana, How're you?")) == "HUH?! SPEAK UP, SONNY"
+(speak_to_grandam("Hi")) == "HUH?! SPEAK UP, SONNY!"
+(speak_to_grandam("What did you eat?")) == "I LOVE YOU TOO PUMPKIN"
+
+
 if "" == !.upcase
   puts "HUH?! SPEAK UP, SONNY!"
 
