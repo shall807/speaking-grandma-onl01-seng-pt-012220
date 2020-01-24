@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-if speak_to_grandma == "I LOVE YOU GRANDMA!"
+if speak_to_grandma == capitals
   puts "I LOVE YOU TOO PUMPKIN!"
 elseif puts "HUH?! SPEAK UP, SONNY!"
 
