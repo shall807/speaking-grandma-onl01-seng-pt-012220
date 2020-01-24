@@ -17,7 +17,7 @@ speak_to_grandam
 (speak_to_grandma("I LOVE  YOU GRANDMA")) == "I LOVE YOU TOO PUMPKIN"
 (speak_to_grandma("Hi Nana, How're you?")) == "HUH?! SPEAK UP, SONNY"
 (speak_to_grandma("Hi")) == "HUH?! SPEAK UP, SONNY!"
-(speak_to_grandma("WHAT DID YOU EAT TODAY?")) == "HUH?! SPEAK UP, SONNY!"
+(speak_to_grandma("WHAT DID YOU EAT TODAY?")) == "NO NOT SINCE 1938!"
 (speak_to_grandma("WHAT?")) == "Not since 1938"
 
 
