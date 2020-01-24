@@ -22,7 +22,7 @@ speak_to_grandam
 binding.pry
 
 
-if "" == !.upcase
+
   puts "HUH?! SPEAK UP, SONNY!"
 
 
