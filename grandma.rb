@@ -13,6 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandam
+speak_to_grandam(I LOVE YOU GRANDMA!)
 if "" == !.upcase
   puts "HUH?! SPEAK UP, SONNY!"
 
