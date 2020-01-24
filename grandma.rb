@@ -18,7 +18,7 @@ speak_to_grandam
 (speak_to_grandma("Hi Nana, How're you?")) == "HUH?! SPEAK UP, SONNY"
 (speak_to_grandma("Hi")) == "HUH?! SPEAK UP, SONNY!"
 (speak_to_grandma("WHAT DID YOU EAT TODAY?")) == "NO NOT SINCE 1938!"
-(speak_to_grandma("WHAT?")) == "Not since 1938"
+(speak_to_grandma("WHAT?")) == "NO NOT SINCE 1938!"
 
 
 if "" == !.upcase
